@@ -1,0 +1,15 @@
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\bin\Debug\net7.0\RandomBinaryTree.exe
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\bin\Debug\net7.0\RandomBinaryTree.deps.json
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\bin\Debug\net7.0\RandomBinaryTree.runtimeconfig.json
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\bin\Debug\net7.0\RandomBinaryTree.dll
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\bin\Debug\net7.0\RandomBinaryTree.pdb
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\obj\Debug\net7.0\RandomBinaryTree.csproj.AssemblyReference.cache
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\obj\Debug\net7.0\RandomBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\obj\Debug\net7.0\RandomBinaryTree.AssemblyInfoInputs.cache
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\obj\Debug\net7.0\RandomBinaryTree.AssemblyInfo.cs
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\obj\Debug\net7.0\RandomBinaryTree.csproj.CoreCompileInputs.cache
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\obj\Debug\net7.0\RandomBinaryTree.dll
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\obj\Debug\net7.0\refint\RandomBinaryTree.dll
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\obj\Debug\net7.0\RandomBinaryTree.pdb
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\obj\Debug\net7.0\RandomBinaryTree.genruntimeconfig.cache
+D:\Учёба\АДМ\RandomBinaryTree\RandomBinaryTree\RandomBinaryTree\obj\Debug\net7.0\ref\RandomBinaryTree.dll
